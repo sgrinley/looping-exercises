@@ -14,6 +14,7 @@ public class WhileLoop {
 
 //  Step 4: Increase the counter (Loop will run forever if forgotten)
             count++;
+
         }
     }
 }
