@@ -16,7 +16,6 @@ public class DoWhileLoop {
             count++;
 
 //  Step 5: Check condition after running code
-
         } while (count <= 5);
     }
 }
